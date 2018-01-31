@@ -1,0 +1,2 @@
+/etc/init.d/cron start|stop|restart
+set up cron in /etc/cron.*
